@@ -9,7 +9,7 @@ Me enfoco en aprender construyendo proyectos reales, entendiendo cómo funcionan
 ## 🚀 Sobre mí
 
 * 🎓 Estudiante de Ingeniería en Informática en **IP Santo Tomás (Rancagua)**
-* 🧑‍💻 Formación previa en **especialidad de Programación (3° y 4° medio)**
+* 🧑‍💻 Formación previa en **especialidad de Programación (3° y 4° medio Liceo bicentenario comercial Diego Portales)**
 * 💻 Desarrollo aplicaciones con **C# (WinForms)**
 * ☕ Programación en **Java** con enfoque en POO
 * 🐧 Uso de **Linux (Debian)** para prácticas de sistemas
@@ -20,19 +20,12 @@ Me enfoco en aprender construyendo proyectos reales, entendiendo cómo funcionan
 
 ## 🛠️ Tecnologías y herramientas
 
-### 💻 Lenguajes
-
-* C#
-* Java
-* HTML
-* SQL
-
-### 🧰 Herramientas y tecnologías
-
-* Git
-* Visual Studio
-* Linux
-* Bind9
+### 💻 Lenguajes  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -65,6 +58,7 @@ Seguir desarrollándome en el área TI combinando:
 ## 📫 Contacto
 
 * [GitHub](https://github.com/LuisQuiroga470)
+* Correo: gatothanos@gmail.com
 
 ---
 
