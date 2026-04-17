@@ -64,7 +64,7 @@ Seguir desarrollándome en el área TI combinando:
 
 ## 📫 Contacto
 
-* [GitHub] (https://github.com/LuisQuiroga470)
+* [GitHub](https://github.com/LuisQuiroga470)
 
 ---
 
